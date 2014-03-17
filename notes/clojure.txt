@@ -1,0 +1,2 @@
+lein new compojure-app app  Create a new clojure app called 'app' using the compojure template
+lein ring server  Start a clojure web app running from within the app folder
